@@ -1,14 +1,14 @@
-.edit .controller.ds4 {
+.edit .controller.custom4 {
     background: url(https://schoettner.github.io/skins/base-custom.png);
 }
 
 
-.controller.edit {
+.controller.custom4 {
     background: url(https://schoettner.github.io/skins/base-custom.png);
 }
 
 
-.edit .face .ds4 {
+.edit .face .custom4 {
     background: url(https://schoettner.github.io/skins/dpad-custom.png);
 }
 
@@ -19,7 +19,7 @@
 }
 
 
-.edit .stick .ds4 {
+.edit .stick .custom4 {
     background: url(https://schoettner.github.io/skins/sticks-custom.png);
 }
 
